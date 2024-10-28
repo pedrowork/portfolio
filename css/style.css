@@ -1004,3 +1004,10 @@ select {
 #foto-perfil.girar {
   animation: girarMoeda 1.6s forwards;
 }
+
+.repo-status {
+  color: red; /* define a cor vermelha */
+  font-weight: bold; /* aplica o negrito */
+  display: block; /* exibe em uma linha separada */
+  margin-top: 5px; /* adiciona um pequeno espaçamento acima */
+}
